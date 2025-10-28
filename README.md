@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack in progress from Canada.</h3>
 
 <p align="center">
-  🚀 Currently on a journey to become a full-stack developer by <strong>February 2026</strong>.<br>
+  🚀 Currently on a journey to become a full-stack developer by <strong>Spring 2026</strong>.<br>
   💻 Following the <strong>Full Stack JavaScript Techdegree</strong> at Treehouse and complementary <strong>Udemy courses</strong>.<br>
   🧠 Working in the tech industry since <strong>2016</strong>, constantly learning and evolving.
 </p>
