@@ -37,7 +37,7 @@ A more advanced, dynamic version is currently in development as I expand my full
 - Accessibility principles
 - Real-time user feedback
 
-### 4️⃣ OOP Game (Phrase Hunter - In progress)
+### 4️⃣ OOP Game - Phrase Hunter
 - Object-Oriented Programming (ES6 classes)
 - Modular structure
 - Game logic & state management
